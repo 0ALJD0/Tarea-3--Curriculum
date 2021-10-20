@@ -1,0 +1,127 @@
+body {
+    width: auto;
+    height: auto;
+    margin: 4 4;
+    
+    padding: 18px;
+    border: 5px solid black;
+}
+.datos {
+    margin-left: 365px;
+    margin-top: -145px;
+}
+
+.title{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.p1 {
+    line-height: 2px;
+    margin-left: 10px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #5936c7;
+}
+
+.p2 {
+    margin-left: 20px;
+    line-height: 2px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000;
+}
+li{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000;
+}
+.foto {
+    margin-left: 850px;
+    margin-top: -899px;
+}
+.Identifif {
+    padding: 2px;
+    height:1200px;
+    width: 1600px;
+    border-radius: 20px;
+    
+}
+.Identifi {
+    margin-left: -45px;
+    margin-right: 0;
+    margin-top: 50px;
+    height: 1200px;
+    width: 1600px;
+}
+h2{
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.foto1 {
+    padding: 2px;
+    border: 2px solid black;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.ulog {
+    margin-left: 0px;
+    margin-top: -60px;
+}
+.facci{
+    margin-left: 1000px;
+    margin-top: -120px;
+}
+.facciimg{
+    width: 200px;
+}
+.redessociales {
+    width: 90px;
+    border-radius: 8%;
+}
+.redes {
+    margin-left: 700px;
+    margin-top: -650px;
+    width:120px;
+    
+
+}
+.tabla{
+    
+    border-collapse: collapse;
+}
+td{
+    border: black 5px solid;
+}
+.parrafo {
+    font-family: serif;
+    text-align: justify;
+    font-size: 20px;
+    color: #258b36;}
+.texto {
+    margin-left: 675px;
+    margin-top: 0px;
+    margin-right: 375px;
+}
+.frase_div {
+    margin-left: 725px;
+    margin-top: 40px;
+    margin-right: 375px;
+}
+
+/*Refrencias*/
+.cont {
+    font-size: 15px;
+    min-height: 300px;
+    width: 800px;
+    display: grid;
+    grid-template-columns: 100px 80px 70px 50px;
+    grid-template-rows: repeat(4, 30px);
+    grid-gap: 15px 20px;
+    align-items: center;
+    
+    
+  }
